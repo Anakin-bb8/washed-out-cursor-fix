@@ -7,4 +7,4 @@ The source code is written in Python and you can check what the software does.
 
 *For any question you can open an issue*
 
-**👉👉[Download]()**
+**👉👉[Download](https://github.com/Anakin-bb8/washed-out-cursor-fix/releases/download/v0.1/washed_out_cursor_fix.exe)**
